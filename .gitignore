@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# Editor / temp
+*.tmp
+*.bak
+.vscode/settings.json

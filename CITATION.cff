@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "ISO/IEC/IEEE 12207:2026 - Software Life Cycle Process Modeling for PCM"
+message: "If you use this academic portfolio project, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Sanchez Manrique"
+    given-names: "Italo Ludwing"
+year: 2026
+abstract: "Academic portfolio project on software life cycle process modeling for PCM using ISO/IEC/IEEE 12207:2026, BPMN 2.0, ISO/IEC 27001 and ISO/IEC 27002."

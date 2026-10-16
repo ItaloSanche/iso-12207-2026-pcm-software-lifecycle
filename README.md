@@ -61,23 +61,19 @@ Para cada proceso se definieron:
 - actividades BPMN;
 - relación con ISO/IEC 27001 e ISO/IEC 27002.
 
-## Ejemplo del enfoque aplicado
+## Procesos técnicos modelados
 
-Una necesidad institucional no pasa directamente a programación.
+### 1. Análisis de negocio o misión
 
-El flujo propuesto considera:
+![Análisis de negocio o misión](bpmn/exports/01-analisis-negocio-mision.png)
 
-Necesidad
-→ análisis de negocio
-→ necesidades de interesados
-→ requisitos
-→ arquitectura
-→ diseño
-→ análisis de factibilidad
-→ implementación
-→ procesos posteriores de integración y pruebas.
+### 2. Definición de necesidades y requisitos de los interesados
 
-Esto permite aumentar la trazabilidad entre la necesidad inicial, las decisiones técnicas y los entregables del software.
+![Necesidades de los interesados](bpmn/exports/02-necesidades-requisitos-interesados.png)
+
+### 3. Definición de requisitos del sistema/software
+
+![Requisitos del sistema](bpmn/exports/03-requisitos-sistema-software.png)
 
 ## Modelado BPMN
 
