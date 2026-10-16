@@ -140,3 +140,9 @@ Proyecto desarrollado como parte del curso de Calidad y Mejora de Procesos Softw
 Este repositorio corresponde a un proyecto académico y no representa una directiva oficial ni una posición institucional de la Presidencia del Consejo de Ministros del Perú.
 
 Las normas ISO mencionadas son utilizadas únicamente como referencia. Sus contenidos completos no se distribuyen en este repositorio.
+
+## Documentación
+
+- [Informe completo en PDF](docs/informe-iso-12207-2026-pcm.pdf)
+- [Versión editable en Word](docs/informe-iso-12207-2026-pcm.docx)
+
