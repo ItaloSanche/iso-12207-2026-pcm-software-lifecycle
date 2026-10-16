@@ -65,11 +65,11 @@ Para cada proceso se definieron:
 
 ### 1. Análisis de negocio o misión
 
-![Análisis de negocio o misión](bpmn/exports/01-analisis-negocio-mision.png)
+![Análisis de negocio o misión](bpmn/exports/01-analisis-negocio.png)
 
 ### 2. Definición de necesidades y requisitos de los interesados
 
-![Necesidades de los interesados](bpmn/exports/02-necesidades-requisitos-interesados.png)
+![Necesidades de los interesados](bpmn/exports/02-necesidades-interesados.png)
 
 ### 3. Definición de requisitos del sistema/software
 
