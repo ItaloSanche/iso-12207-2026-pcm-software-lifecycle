@@ -36,30 +36,6 @@ El proyecto analiza oportunidades de mejora relacionadas con:
 - evidencias documentales;
 - modelado BPMN.
 
-## Mi contribución
-
-Mi trabajo se concentró principalmente en el análisis, documentación y modelado de Procesos Técnicos de ISO/IEC/IEEE 12207:2026.
-
-Procesos desarrollados:
-
-1. Análisis de negocio o misión
-2. Definición de necesidades y requisitos de los interesados
-3. Definición de requisitos del sistema/software
-4. Definición de la arquitectura
-5. Definición del diseño
-6. Análisis del sistema
-7. Implementación
-
-Para cada proceso se definieron:
-
-- propósito;
-- entradas;
-- salidas;
-- roles y responsables;
-- puntos de control;
-- evidencias;
-- actividades BPMN;
-- relación con ISO/IEC 27001 e ISO/IEC 27002.
 
 ## Procesos técnicos modelados
 
@@ -71,9 +47,25 @@ Para cada proceso se definieron:
 
 ![Necesidades de los interesados](bpmn/exports/02-necesidades-interesados.png)
 
-### 3. Definición de requisitos del sistema/software
+### 3. Definicion de la arquitectura
+
+![Requisitos del sistema](bpmn/exports/04-definicion-arquitectura.png)
+
+### 4. Definicion de diseno
+
+![Requisitos del sistema](bpmn/exports/05-definicion-diseno.png)
+
+### 5. Definición de requisitos del sistema/software
 
 ![Requisitos del sistema](bpmn/exports/03-requisitos-sistema-software.png)
+
+### 6. Analisis del sistema
+
+![Requisitos del sistema](bpmn/exports/06-analisis-sistema.png)
+
+### 7. Implementacion
+
+![Requisitos del sistema](bpmn/exports/07-implementacion.png)
 
 ## Modelado BPMN
 
